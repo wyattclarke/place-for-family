@@ -3,19 +3,29 @@ languageCode = 'en-us'
 title = 'Creating Place for Family'
 theme = 'ananke'
 
-Paginate = 10
+Paginate = 30
 
 [[menu.main]]
-name = "Posts"
-url = "/posts"
+name = "Philosophy"
+url = "/philosophy"
 weight = 1
+
+[[menu.main]]
+name = "Schemes"
+url = "/schemes"
+weight = 2
 
 [[menu.main]]
 name = "Real Estate"
 url = "/real_estate"
-weight = 2
+weight = 3
+
+[[menu.main]]
+name = "CPS"
+url = "/CPS"
+weight = 4
 
 [[menu.main]]
 name = "Book Reflections"
 url = "/books"
-weight = 3
+weight = 5
