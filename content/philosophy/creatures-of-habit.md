@@ -4,7 +4,7 @@ date = 2023-02-24T23:13:22-05:00
 draft = false
 +++
 
-Activities can be thought of as habit forming – even addictive – when their value today becomes greater the more one has done them in the past. Many of our behaviors exhibit this sort of momentum, including good ones like hand washing and bad ones like substance abuse. 
+Activities can be thought of as habit forming---even addictive---when their value today becomes greater the more one has done them in the past. Many of our behaviors exhibit this sort of momentum, including good ones like hand washing and bad ones like substance abuse. 
 
 Habits tie our past, current, and future selves together. 
 
@@ -18,7 +18,7 @@ This type of theory is useful not because we think people are automatons, but be
 
 The opposite extreme from Rational Addiction theory is to think that addicts have completely lost control over their choices. In formal terms, a myopic addict has time-inconsistent preferences. One moment, a person has chosen to quit their addiction and, the next, they lose control and relapse. Thinking Fast and Slow (Kahneman, 2011) is a good reference from behavioral economics to characterize why this might happen. 
 
-Both these models are useful for a community designer to understand if you think that everybody plans, but imperfectly. First, they lay out a mathematical story for how and why people’s past baggage matters. Second, they suggest external incentive structures and education that can be put in place to encourage our rational minds to pursue healthy habits. Third, they show how better internal decision-making habits can lead to better behaviors. 
+Both these models are useful for a community designer to understand if you think that everybody plans, but imperfectly. First, the models lay out a mathematical story for how and why people’s past baggage matters. Second, they suggest external incentive structures and education that can be put in place to encourage our rational minds to pursue healthy habits. Third, they show how better internal decision-making habits can lead to better behaviors. 
 
 It's important to note here that economics is obviously not the main discipline with expertise in habit formation. Economics introduces mathematical reasoning that can help one appreciate the importance of accounting for habits and outline high-level contours of the topic. But medical professionals should play a large role in developing real policies and community design choices.
 
