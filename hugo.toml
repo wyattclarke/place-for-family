@@ -2,3 +2,20 @@ baseURL = 'https://wyattclarke.github.io/place-for-family/'
 languageCode = 'en-us'
 title = 'Creating Place for Family'
 theme = 'ananke'
+
+Paginate = 10
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 1
+
+[[menu.main]]
+name = "Real Estate"
+url = "/real_estate"
+weight = 2
+
+[[menu.main]]
+name = "Book Reflections"
+url = "/books"
+weight = 3
