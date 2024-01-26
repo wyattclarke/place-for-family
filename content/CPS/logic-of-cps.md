@@ -4,10 +4,6 @@ date = 2023-03-01T23:13:22-05:00
 draft = false
 +++
 
-*This post is even more half-baked than most in the sense that I'm unsure about its conclusions. I'd love to hear feedback.*
-
----
-
 The design and operation of Child Protective Services (CPS) is a topic often shrouded in pain and emotion, with big risks at play. This essay aims to take a dispassionate step back and survey the incentives that shape CPS, as part of the justice system, and how that system interacts with child and parent wellbeing. 
 
 #### Overview
@@ -69,6 +65,10 @@ The figure below illustrates how I think about it. One must choose between progr
 One must also choose between changing the quantity or quality of these programs. Quantity is set by voters in the long run so changing it is a matter of political advocacy.[^1] Changing the quality of programs normally requires working in them, innovating, and doing the job better than somebody else would do it.
 
 ![_config.yml](/images/child_welfare_roles.jpg)
+
+---
+
+*I'd love to hear feedback about this post in particular. Am I wrong? How?*
 
 ---
 
