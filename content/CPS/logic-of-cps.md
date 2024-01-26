@@ -12,7 +12,7 @@ The design and operation of Child Protective Services (CPS) is a topic often shr
 
 #### Overview
 
-As a starting point, I assert that society chooses some minimum standard of care for children. The standard originates from voters’ preferred tradeoffs between child safety, family autonomy, and everything else. Those preferences get translated into policy, subject to budget constraints. Naturally, what behaviors are called child neglect and abuse can drift over time. 
+As a starting point, I assert that society chooses some minimum standard of care for children. The standard originates from voters’ preferred tradeoffs between child safety, family autonomy, and everything else. (In public economics, this concept is called the [social welfare function](https://en.wikipedia.org/wiki/Social_welfare_function).) Those preferences get translated into policy, subject to budget constraints. Naturally, what behaviors are called child neglect and abuse can drift over time. 
 
 Having established a minimum standard of care, the state monitors for violations. When a violation is found, several mechanisms are available for remediation, but they are all backed by legal power to remove children from their parent’s custody. Child removal is used to (1) directly stop individual cases of abuse or neglect and (2) deter parents who may never be observed from violating the minimum standard of care. 
 
@@ -32,7 +32,7 @@ Imagine that CPS cases fall along a continuum between gross abuse and healthy ho
 
 If CPS’ sole motivation were to prevent child harm by direct intervention, they would only separate children from parents when it was expected to be a net benefit to the child. If there were a societal bias toward keeping children in their home, perhaps only extreme cases would be removed, leaving some children at home who could benefit from entering CPS custody. 
 
-However, as mentioned, given that CPS cannot observe every parent’s behavior, their enforcement actions have a deterrence effect. Fear of CPS involvement scares parents into taking better care of their kids. If CPS detects only a small share of violations, their interventions must be draconian to maintain an effective deterrent. 
+However, as mentioned, given that CPS cannot observe every parent’s behavior, their enforcement actions have a deterrence effect. **Fear of CPS involvement scares parents into taking better care of their kids.** If CPS detects only a small share of violations, their interventions must be draconian to maintain an effective deterrent. 
 
 When deterrence is a motivation for CPS removal, there’s a tradeoff between the wellbeing of (potentially) removed children and the rest of the child population. By removing some children who would be better off at home, they can scare more parents into careful compliance – a net improvement for the whole child population. 
 
