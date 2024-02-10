@@ -1,4 +1,8 @@
-+++ title = 'How to Think about the Predicted AI Tsunami' date = 2024-02-07T23:13:22-05:00 draft = false +++
++++ 
+title = 'How to Think about the Predicted AI Tsunami' 
+date = 2024-02-07T23:13:22-05:00 
+draft = false 
++++
 
 The founder of [Google DeepMind](https://deepmind.google/) wrote a book projecting 20 years into the future. *The Coming Wave* (2023) by Mustafa Suleyman. He identifies AI and synthetic biology as the two big technological trends to watch. They push from two sides at the same end of creating intelligent life or very near imitations of it. Humans become less special, less homogenous, and more powerful.
 
