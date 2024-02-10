@@ -29,7 +29,7 @@ With this focus on mitigation strategies for ordinary people, the book leaves me
 1. Will government drift toward authoritarianism or irrelevance?
 2. Will labor markets stay relatively tight, or will there be chronic labor surpluses?
 
-![Axes I worry about.](/img/the_coming_wave_axes.png)
+![Axes I worry about.](/static/img/the_coming_wave_axes.png)
 
 The author argues that unless governments beef up their capacities, they’ll be overwhelmed by the effects of new technologies. Imagine all the citizens of a country become X-Men with weird, emergent superpowers. Their mistakes and fights would get out of hand. Unless the government becomes deeply powerful and repressive, it will result in catastrophes that grind down government control.
 
