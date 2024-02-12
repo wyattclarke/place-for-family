@@ -8,7 +8,7 @@ I’m alarmed to realize I’ve joined the FIRE movement. That’s “Financial 
 
 ![Mentions of "FIRE movement" from Google Trends. FIRE had a moment during the pandemic.](/static/img/google_trends_fire_movement.png)
 
-I’m not actually racing to retire; instead, I’m racing to get to the retirement job/Walmart greeter phase of my career faster. I don’t want to stay in my current job or industry until retirement. What’s necessary for me to securely accept a much lower paying gig that fits my passion?
+I’m not actually racing to retire; instead, I’m racing to get to the side-gig/retirement job/Walmart greeter phase of my career faster. I don’t want to stay in my current job or industry until retirement. What’s necessary for me to securely accept a much lower paying gig that fits my passion?
 
 ## Why?
 
@@ -16,13 +16,13 @@ I find myself financially stuck in my job. It’s not enough money to be “gold
 
 I want to downshift my family’s lifestyle and what is required to sustain it. But I don’t want that to impact my children’s future potential. This entry is about my personal plan for how to downshift.
 
-This is my plan and not necessarily relevant to others. So why write about it? One, to test out my own thought process. I’ve been planning with numbers for months; it’s time to summarize the qualitative conclusions in words. Two, because others may feel the same.
+This is my plan and not necessarily relevant to others. So why write about it? One, to test out my own thought process. I’ve been planning with numbers for months; it’s time to summarize and examine the qualitative conclusions in words. Two, because others may feel the same.
 
 My dream is about building a community for affordable thriving of families. That vision requires a mix of people. It requires proximity between different types of people, with a range of earnings potentials. I envision a mix of young parents, do-gooders, burnouts, and retirees. People who are there to earn money and others who are there for the experience. To attract and empower those who might come for the experience, they will need help downshifting.
 
 ## Why now?
 
-We’re at a relatively easy place to plan. My wife and I are married, done making babies, and recently bought a house so housing costs are predetermined. That means my future financial obligations are mostly known, God willing: save for college costs, pay off the house, and save for retirement.
+We’re at a relatively easy place to plan. My wife and I are married, done making babies, and recently bought a house so housing costs are predictable. [Flag: Having bought a house means the mortgage payment is predictable, and we're committed to staying in the same place a long time. But ownership *increases* risk of big unexpected maintenance costs.] That means my future financial obligations are mostly known, God willing: save for college costs, pay off the house, and save for retirement.
 
 Also, I have it relatively easy to do a transition, partially by my design and partially by blessing (ie, God’s design). Right now, my wife and my joint income exceeds our spending, but I’ve been hanging onto a job I don’t love by my fingernails. Several times, I’ve begun job searching but have not found a job I like substantially more that pays even 75% of my current salary.
 
@@ -37,6 +37,8 @@ I decided that, before taking a riskier and lower paying career turn, my goals a
 Retirement at any age involves plenty of risks and tradeoffs but ultimately boils down to one number. A stopping rule. How much money do I need before I quit? (Saving for kids’ college also involves a decision of how much to give them. But it’s lower stakes since the financial risks are the kids’, not mine.)
 
 Once determined, savings goals for retirement, college, or anything else become fixed costs. In contrast, ordinary month-to-month expenses are variable. If we moved our family to Vietnam or a tiny-home park in Arkansas, our month-to-month expenses would fall, but our retirement cutoff would still be fixed. In a nutshell, my goal is to pay my expected lifetime fixed costs before shifting to the lifestyle I aspire to, which is likely lower cost and lower earnings.
+
+[Mismatch: The post says its a downshifting plan, but in reality it's about my retirement savings. It's incomplete. It talks about how, why, and how long we need to keep our current jobs in place. There's nothing about change -- how to lower costs and what might change once the financial savings goals are met.]
 
 ## How does it work?
 
@@ -59,7 +61,7 @@ That is, assuming average 6% interest over 30 years, an investment grows to 5.74
 
 What interest rate should I count on? Stocks have historically returned 7% above inflation (real returns). It’s smart to count on slightly less than that. So I’m mostly using 6%.
 
-People at the age of retirement should generally make very conservative, risk-averse assumptions, but I am 30 years away and have chosen a retirement savings goal with some wiggle room. If the first 10 years of investment returns are poor, I can go focus on raising income again.
+People at the age of retirement should generally make very conservative, risk-averse assumptions, but I am 30 years away from retiring and have chosen a savings goal with some wiggle room. If the first 10 years of investment returns are poor, I can go focus on raising income again.
 
 Next, how much is a modest retirement? For ourselves, I settled on the number $1.5 million in 2023 dollars. I came to that number through four methods:
 - Deciding a monthly retirement budget and calculating the net present value of that as a 30-year annuity. God help me if I live past 97, for reasons larger than just money.
@@ -101,6 +103,10 @@ I worry that this plan of mine is the opposite of what Jesus instructed.
 It's true that I see this plan as an antidote to worry. I want to trust Jesus by doing work to which I feel called, but it feels irresponsible. I have a wife and children. I’ve tested those limits and found myself unable to give up my job without the security of savings. Perhaps I’m attempting a half-measure, which God generally scorns?
 
 That said, it’s important to recognize that this is a plan to decrease, not increase, my financial security. We’re attempting to give up a relatively small amount of security in return for a large improvement in freedom to act.
+
+> "Those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint."
+
+God is no passive party in my plan. Saving should never minimize the need to trust in Jesus. We're saving in the spirit of "God helps those who help themselves." But pride goes before the fall.
 
 ## Where’s the economics?
 
