@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wyattclarke.github.io/place-for-family/books/</loc>
-    <lastmod>2024-02-07T23:13:22-05:00</lastmod>
-  </url><url>
     <loc>https://wyattclarke.github.io/place-for-family/</loc>
+    <lastmod>2024-07-02T23:13:22-05:00</lastmod>
+  </url><url>
+    <loc>https://wyattclarke.github.io/place-for-family/philosophy/</loc>
+    <lastmod>2024-07-02T23:13:22-05:00</lastmod>
+  </url><url>
+    <loc>https://wyattclarke.github.io/place-for-family/philosophy/god_vs_mammon/</loc>
+    <lastmod>2024-07-02T23:13:22-05:00</lastmod>
+  </url><url>
+    <loc>https://wyattclarke.github.io/place-for-family/books/</loc>
     <lastmod>2024-02-07T23:13:22-05:00</lastmod>
   </url><url>
     <loc>https://wyattclarke.github.io/place-for-family/books/the_coming_wave/</loc>
     <lastmod>2024-02-07T23:13:22-05:00</lastmod>
   </url><url>
-    <loc>https://wyattclarke.github.io/place-for-family/philosophy/my_downshifting_process/</loc>
+    <loc>https://wyattclarke.github.io/place-for-family/philosophy/my-downshifting-process/</loc>
     <lastmod>2024-02-02T23:13:22-05:00</lastmod>
   </url><url>
-    <loc>https://wyattclarke.github.io/place-for-family/philosophy/</loc>
+    <loc>https://wyattclarke.github.io/place-for-family/philosophy/my_downshifting_process/</loc>
     <lastmod>2024-02-02T23:13:22-05:00</lastmod>
   </url><url>
     <loc>https://wyattclarke.github.io/place-for-family/philosophy/policy-innovation-is-darwinian/</loc>
@@ -27,6 +33,9 @@
     <lastmod>2023-08-29T23:13:22-05:00</lastmod>
   </url><url>
     <loc>https://wyattclarke.github.io/place-for-family/cps/</loc>
+    <lastmod>2023-03-01T23:13:22-05:00</lastmod>
+  </url><url>
+    <loc>https://wyattclarke.github.io/place-for-family/cps/darwinian_innovation/</loc>
     <lastmod>2023-03-01T23:13:22-05:00</lastmod>
   </url><url>
     <loc>https://wyattclarke.github.io/place-for-family/cps/logic-of-cps/</loc>
