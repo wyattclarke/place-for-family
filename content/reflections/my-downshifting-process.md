@@ -6,7 +6,7 @@ draft = false
 
 I’m alarmed to realize I’ve joined the FIRE movement. That’s “Financial Independence, Retired Early.” FIRE is an Internet community of people plotting how to escape the Rat Race while they’re still young. It had a real moment during the Pandemic, and my impression is there’s a lot of overlap with the CrossFit people.
 
-{{< figure src="/img/google_trends_fire_movement.png" title="Mentions of 'FIRE movement' from Google Trends. FIRE had a moment during the pandemic." >}}
+{{< figure src="/img/google_trends_fire_movement.png" title="Mentions of 'FIRE movement' from Google Trends. FIRE had a moment during the pandemic." >}}hug
 
 I’m not actually racing to retire; instead, I’m racing to get to the retirement job/Walmart greeter phase of my career faster. I don’t want to stay in my current job or industry until retirement. What’s necessary for me to securely accept a much lower paying gig that fits my passion?
 

@@ -1,5 +1,5 @@
 +++
-title = 'You cannot \[maximize\] both God and money.'
+title = 'You cannot maximize both God and money'
 date = 2024-07-02T23:13:22-05:00
 draft = false
 +++
@@ -20,7 +20,7 @@ Chasing God looks like somebody who provides for their household, but their hear
 
 ### It's a *dynamic* constrained maximization problem.
 
-Each person defines their own constraints with respect to material well-being and connection to God. What if you would want to chase God, but meeting your financial constraints takes all your energy? Like the proverbial beggar stealing bread to eat? That example lets most of us off the hook, though. It’s more like the middle manager ignoring needs around her to pay off her McMansion.
+Each person defines their own constraints with respect to material well-being and connection to God. What if you would want to chase God, but meeting your financial constraints takes all your energy? Like the proverbial beggar stealing bread to eat? That example lets most of us off the hook though. It’s more like the middle manager ignoring needs around her to pay off her McMansion.
 
 I recently took a mortgage to buy a house. We moved to a nice house in a good school district to give our three kids a decent education. Life is mega expensive.
 
@@ -32,7 +32,7 @@ So we don’t simply face a static constrained maximization problem – it’s d
 
 Some material constraints are not unbiblical. Paul says in 1 Timothy 5:8, "But if anyone does not provide for his own, and especially for those of his household, he has denied the faith and is worse than an unbeliever." In a situation where we have access to financing and people are expected to pay for their retirement and big milestones for their kids like college and weddings, failing to save for them if you are able is irresponsible.
 
-Other places, it warns about pursuing too much asceticism, beyond what we can bear. Be honest with yourself. Ecclesiastes 7 says “Do not be over-righteous, neither be overwise—-why destroy yourself? Do not be overwicked, and do not be a fool—why die before your time?” Earlier in 1 Corinthians 7, Paul also says, “I wish that all of you were [single] as I am. But each of you has your own gift from God; one has this gift, another has that.”
+Other places, it warns about pursuing too much asceticism, beyond what we can bear. Be honest with yourself. Ecclesiastes 7 says “Do not be over-righteous, neither be overwise—why destroy yourself? Do not be overwicked, and do not be a fool—why die before your time?” Earlier in 1 Corinthians 7, Paul also says, “I wish that all of you were [single] as I am. But each of you has your own gift from God; one has this gift, another has that.”
 
 ### Why Not Maximize a Balance of God and Money?
 
