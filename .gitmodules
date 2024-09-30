@@ -4,3 +4,4 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/wyattclarke/place-for-family.git
+	branch = gh-pages
